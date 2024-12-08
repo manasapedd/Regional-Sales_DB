@@ -26,9 +26,15 @@ Data Analysis:
 
 4.	Sales and Profit Distribution by State: A geographic visualization that maps out both sales and profit distribution across different U.S. states. This allows for easy identification of key states driving revenue and profit, as well as those underperforming.
 
+![image](https://github.com/user-attachments/assets/807f365a-3e1a-4f7c-9a42-202b76fdd448)
+
+
 5.	Sales Above and Below U.S. Sales Average: This analysis compares state-level sales to the U.S. average, categorizing states where sales are above or below the national average. 
 
 6.	Monthly Sales by Segment: The dashboard breaks down sales data by month and segment, including Distributor, In-Store, Online, and Wholesale channels. This analysis reveals seasonal trends within each sales segment and helps to optimize channel strategies.
+
+   ![image](https://github.com/user-attachments/assets/d202cea8-5016-4f8a-bd00-a50e8a9f3b88)
+
 
 7.	Sales by Regions: A focused analysis on the top 5 performing regions, identifying where the bulk of the revenue is generated. This helps prioritize resource allocation and marketing efforts in these high-performing regions.
 
